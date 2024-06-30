@@ -1,0 +1,6 @@
+matplotlib
+pandas
+bs4
+sklearn
+factor-analyzer
+seaborn
