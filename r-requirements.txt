@@ -1,2 +1,6 @@
+fcaR
 arules
 BiocManager
+dplyr
+ggplot2
+tidyverse
