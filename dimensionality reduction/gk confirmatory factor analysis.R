@@ -5,8 +5,6 @@ library(ggplot2)
 
 df = read.csv('gk_preprocc.csv')
 nomi <- df$player
-df$player <- NULL
-rownames(df) = nomi
 
 
 modelspec <- '
@@ -60,16 +58,26 @@ summary(fit, fit.measures = TRUE, standardized = TRUE)
 
 used <- c('gk_passes_length_avg', 'gk_goal_kicks_per90', 'gk_goal_kick_length_avg',
           'gk_avg_distance_def_actions', 'gk_passes_per90', 'gk_def_actions_outside_pen_area_per90',
-          'gk_crosses_stopped_pct', 'xg_saved_per90', 'gk_saves_per90', 'gk_pens_save_pct',
-          'gk_goals_against', 'gk_clean_sheets', 'gk_corner_kick_goals_against_perGame')
+          'gk_crosses_stopped_pct', 'gk_passes_throws_per90', 'xg_saved_per90', 'gk_saves_per90',
+          'gk_pens_save_pct','gk_goals_against', 'gk_clean_sheets', 
+          'gk_corner_kick_goals_against_perGame')
+added <- c('player', 'age', 'nationality', 'position', 'team', 'top5', 'minutes_90s')
 factor_scores <- lavPredict(fit)
 factor_scores = as.data.frame(factor_scores)
-rownames(factor_scores) = nomi
+phi <- inspect(fit, 'std.all')$psi
+phi
 cor(factor_scores)
-lavInspect(fit, 'cor.lv')
-inspect(fit, "std.all")$lambda
+round(phi - cor(factor_scores), 2)
+lambda <- inspect(fit, "std.all")$lambda
+lambda %*% phi
 cor(df[used], factor_scores)
+round(lambda %*% phi - cor(df[used], factor_scores), 2)
+factor_scores = cbind(df[added], factor_scores)
 
+write.csv(factor_scores, file = "gk_factors.csv", row.names = FALSE)
+
+rownames(factor_scores) = factor_scores$player
+factor_scores$player <- NULL
 factor_scores <- factor_scores %>%
   mutate(across(everything(), ~ ntile(., 10), .names = "decile_{col}"))
 
