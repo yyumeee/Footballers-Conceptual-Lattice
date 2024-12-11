@@ -1,0 +1,679 @@
+player,age,nationality,position,team,top5,minutes_90s,Fantasista = Low,Fantasista = Average,Fantasista = High,Sacrificio = Low,Sacrificio = Average,Sacrificio = High,Prendi_Falli = Low,Prendi_Falli = Average,Prendi_Falli = High,Bomber = Low,Bomber = Average,Bomber = High,Torre = Low,Torre = Average,Torre = High
+Karim Adeyemi,21,de GER,"FW,MF",Dortmund,True,10.1,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Ludovic Ajorque,29,fr FRA,FW,Mainz 05,True,15.1,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True
+Faride Alidou,22,de GER,"FW,MF",Köln,True,14.2,True,False,False,False,True,False,False,False,True,False,True,False,False,True,False
+Christopher Antwi-Adjei,29,gh GHA,"FW,MF",Bochum,True,13.5,False,False,True,False,True,False,False,True,False,True,False,False,False,True,False
+Takuma Asano,28,jp JPN,"FW,MF",Bochum,True,22.1,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Maximilian Beier,20,de GER,"FW,MF",Hoffenheim,True,26.9,False,True,False,True,False,False,False,False,True,False,False,True,False,True,False
+Jan-Niklas Beste,24,de GER,"FW,MF",Heidenheim,True,28.9,False,True,False,False,False,True,False,False,True,False,False,True,True,False,False
+Victor Boniface,22,ng NGA,FW,Leverkusen,True,17.2,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Moritz Broschinski,22,de GER,FW,Bochum,True,13.9,False,True,False,False,True,False,True,False,False,True,False,False,False,False,True
+Jonathan Burkardt,23,de GER,"FW,MF",Mainz 05,True,17.1,True,False,False,False,True,False,False,False,True,False,False,True,False,True,False
+Jamie Bynoe-Gittens,18,eng ENG,"FW,MF",Dortmund,True,11.8,False,False,True,False,True,False,False,False,True,True,False,False,True,False,False
+Václav Černý,25,cz CZE,"FW,MF",Wolfsburg,True,10.2,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Tomáš Čvančara,22,cz CZE,FW,Gladbach,True,10.0,True,False,False,True,False,False,True,False,False,True,False,False,False,False,True
+Ermedin Demirović,25,ba BIH,"FW,MF",Augsburg,True,31.9,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Eren Dinkçi,21,de GER,"FW,MF",Heidenheim,True,29.4,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False
+Marvin Ducksch,29,de GER,FW,Werder Bremen,True,30.0,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Chris Führich,25,de GER,"FW,MF",Stuttgart,True,28.5,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Michael Gregoritsch,29,at AUT,FW,Freiburg,True,18.7,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Serhou Guirassy,27,gn GUI,FW,Stuttgart,True,24.5,False,False,True,True,False,False,False,True,False,False,False,True,False,True,False
+Robin Hack,24,de GER,"FW,MF",Gladbach,True,15.0,False,True,False,False,False,True,True,False,False,False,False,True,True,False,False
+Philipp Hofmann,30,de GER,FW,Bochum,True,17.5,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True
+Lucas Höler,29,de GER,"FW,MF",Freiburg,True,25.6,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Benedict Hollerbach,22,de GER,"FW,MF",Union Berlin,True,14.2,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Mathias Honsak,26,at AUT,"FW,MF",Darmstadt 98,True,11.3,True,False,False,False,True,False,True,False,False,True,False,False,False,True,False
+Harry Kane,30,eng ENG,FW,Bayern Munich,True,31.5,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+Silas Katompa,24,cd COD,"FW,MF",Stuttgart,True,10.0,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Tim Kleindienst,27,de GER,FW,Heidenheim,True,31.9,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True
+Jamie Leweling,22,de GER,"FW,MF",Stuttgart,True,16.9,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Linton Maina,24,de GER,"FW,MF",Köln,True,21.1,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Donyell Malen,24,nl NED,"FW,MF",Dortmund,True,19.8,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Omar Marmoush,24,eg EGY,"FW,MF",Eint Frankfurt,True,25.6,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Nathan N'Goumou,23,fr FRA,"FW,MF",Gladbach,True,15.4,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Justin Njinmah,22,de GER,FW,Werder Bremen,True,11.3,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Karim Onisiwo,31,at AUT,"FW,MF",Mainz 05,True,16.6,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True
+Loïs Openda,23,be BEL,FW,RB Leipzig,True,30.0,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+Kevin Paredes,20,us USA,"FW,MF",Wolfsburg,True,15.9,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Luca Pfeiffer,26,de GER,"FW,MF",Darmstadt 98,True,18.0,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Alassane Pléa,30,fr FRA,"FW,MF",Gladbach,True,21.3,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False
+Yussuf Poulsen,29,dk DEN,FW,RB Leipzig,True,13.5,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Leroy Sané,27,de GER,FW,Bayern Munich,True,23.7,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Patrik Schick,27,cz CZE,FW,Leverkusen,True,11.8,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Benjamin Šeško,20,si SVN,FW,RB Leipzig,True,17.0,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Mathys Tel,18,fr FRA,"FW,MF",Bayern Munich,True,11.7,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Phillip Tietz,26,de GER,FW,Augsburg,True,26.5,False,True,False,False,True,False,True,False,False,False,False,True,False,False,True
+Tiago Tomás,21,pt POR,"FW,MF",Wolfsburg,True,11.5,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Deniz Undav,27,de GER,"FW,MF",Stuttgart,True,23.2,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Oscar Vilhelmsson,19,se SWE,"FW,MF",Darmstadt 98,True,15.3,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Kevin Volland,31,de GER,"FW,MF",Union Berlin,True,14.9,False,True,False,False,True,False,True,False,False,True,False,False,False,True,False
+Wout Weghorst,30,nl NED,FW,Hoffenheim,True,22.0,False,False,True,True,False,False,False,True,False,False,True,False,False,False,True
+Jonas Wind,24,dk DEN,FW,Wolfsburg,True,29.5,False,True,False,True,False,False,False,True,False,False,False,True,False,False,True
+Nick Woltemade,21,de GER,"FW,MF",Werder Bremen,True,13.2,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False
+José Arnaiz,28,es ESP,"FW,MF",Osasuna,True,10.3,False,True,False,False,True,False,False,False,True,True,False,False,True,False,False
+Iago Aspas,35,es ESP,FW,Celta Vigo,True,30.1,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Léo Baptistão,30,br BRA,FW,Almería,True,20.4,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Ander Barrenetxea,21,es ESP,"FW,MF",Real Sociedad,True,15.9,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Álex Berenguer,28,es ESP,FW,Athletic Club,True,17.7,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Lucas Boyé,27,ar ARG,FW,Granada,True,28.2,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Ante Budimir,32,hr CRO,FW,Osasuna,True,27.1,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Sergio Camello,22,es ESP,FW,Rayo Vallecano,True,18.5,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Ángel Correa,28,ar ARG,"FW,MF",Atlético Madrid,True,17.0,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Brahim Díaz,23,ma MAR,"FW,MF",Real Madrid,True,17.2,False,False,True,False,False,True,False,True,False,False,False,True,True,False,False
+Anastasios Douvikas,23,gr GRE,FW,Celta Vigo,True,10.1,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Artem Dovbyk,26,ua UKR,FW,Girona,True,28.7,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Hugo Duro,23,es ESP,FW,Valencia,True,33.1,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True
+Adri Embarba,31,es ESP,"FW,MF",Almería,True,27.5,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Youssef En-Nesyri,26,ma MAR,FW,Sevilla,True,28.6,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+João Félix,23,pt POR,FW,Barcelona,True,17.1,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Jorge de Frutos,26,es ESP,"FW,MF",Rayo Vallecano,True,17.2,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Álvaro García,30,es ESP,"FW,MF",Rayo Vallecano,True,27.5,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Rubén García,30,es ESP,"FW,MF",Osasuna,True,17.2,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Maxi Gómez,26,uy URU,FW,Cádiz,True,12.9,True,False,False,True,False,False,False,False,True,True,False,False,False,False,True
+Antoine Griezmann,32,fr FRA,"FW,MF",Atlético Madrid,True,29.4,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False
+Gorka Guruzeta,26,es ESP,FW,Athletic Club,True,24.6,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Munir El Haddadi,27,ma MAR,FW,Las Palmas,True,27.2,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Willian José,31,br BRA,FW,Betis,True,21.9,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Joselu,33,es ESP,FW,Real Madrid,True,18.7,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Vinicius Júnior,23,br BRA,FW,Real Madrid,True,20.7,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Kiké,33,es ESP,"FW,MF",Alavés,True,15.8,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True
+Takefusa Kubo,22,jp JPN,"FW,MF",Real Sociedad,True,23.9,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Cyle Larin,28,ca CAN,FW,Mallorca,True,20.3,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True
+Juanmi Latasa,22,es ESP,FW,Getafe,True,17.3,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True
+Robert Lewandowski,34,pl POL,FW,Barcelona,True,30.6,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+José Luis Morales,36,es ESP,"FW,MF",Villarreal,True,11.6,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False
+Dodi Lukebakio,25,be BEL,"FW,MF",Sevilla,True,12.5,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Roger Martí,32,es ESP,FW,Cádiz,True,15.1,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Jaime Mata,34,es ESP,"FW,MF",Getafe,True,19.9,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True
+Borja Mayoral,26,es ESP,FW,Getafe,True,23.9,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Alberto Moleiro,19,es ESP,"FW,MF",Las Palmas,True,20.0,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+Álvaro Morata,30,es ESP,FW,Atlético Madrid,True,21.2,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Gerard Moreno,31,es ESP,FW,Villarreal,True,24.6,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False
+Vedat Muriqi,29,xk KVX,FW,Mallorca,True,25.9,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True
+Lucas Ocampos,29,ar ARG,"FW,MF",Sevilla,True,31.9,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Mikel Oyarzabal,26,es ESP,"FW,MF",Real Sociedad,True,24.0,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False
+Ayoze Pérez,30,es ESP,FW,Betis,True,25.5,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Abdón Prats,30,es ESP,"FW,MF",Mallorca,True,14.1,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Largie Ramazani,22,be BEL,"FW,MF",Almería,True,17.3,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Sandro Ramírez,28,es ESP,FW,Las Palmas,True,20.1,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Chris Ramos,26,es ESP,"FW,MF",Cádiz,True,29.0,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True
+Raphinha,26,br BRA,"FW,MF",Barcelona,True,15.2,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False
+Raúl,22,es ESP,FW,Osasuna,True,15.1,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Luis Rioja,29,es ESP,"FW,MF",Alavés,True,27.8,False,True,False,False,False,True,True,False,False,True,False,False,True,False,False
+Rodri,23,es ESP,"FW,MF",Betis,True,11.7,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Rodrygo,22,br BRA,FW,Real Madrid,True,26.4,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Umar Sadiq,26,ng NGA,FW,Real Sociedad,True,12.0,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Sávio,19,br BRA,"FW,MF",Girona,True,33.1,False,False,True,False,False,True,False,False,True,False,False,True,True,False,False
+Jørgen Strand Larsen,23,no NOR,FW,Celta Vigo,True,31.8,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Alexander Sørloth,27,no NOR,FW,Villarreal,True,27.7,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Raúl de Tomás,28,es ESP,FW,Rayo Vallecano,True,14.1,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Ferrán Torres,23,es ESP,FW,Barcelona,True,13.5,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Óscar Trejo,35,ar ARG,"FW,MF",Rayo Vallecano,True,15.3,False,False,True,False,False,True,False,False,True,True,False,False,True,False,False
+Myrto Uzuni,28,al ALB,FW,Granada,True,27.2,True,False,False,True,False,False,True,False,False,False,True,False,False,True,False
+Iñaki Williams,29,gh GHA,FW,Athletic Club,True,31.6,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Nico Williams,21,es ESP,FW,Athletic Club,True,25.1,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Lamine Yamal,16,es ESP,FW,Barcelona,True,24.5,False,False,True,False,False,True,False,False,True,True,False,False,True,False,False
+Roman Yaremchuk,27,ua UKR,FW,Valencia,True,10.3,True,False,False,False,True,False,True,False,False,False,False,True,False,False,True
+Matthis Abline,20,fr FRA,FW,Nantes,True,11.6,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Akor Adams,23,ng NGA,FW,Montpellier,True,25.0,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Hákon Arnar Haraldsson,20,is ISL,"FW,MF",Lille,True,14.3,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Pierre-Emerick Aubameyang,34,ga GAB,FW,Marseille,True,29.1,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Dilane Bakwa,20,fr FRA,"FW,MF",Strasbourg,True,24.2,False,True,False,False,False,True,False,False,True,True,False,False,True,False,False
+Folarin Balogun,22,us USA,FW,Monaco,True,18.8,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Wissam Ben Yedder,32,fr FRA,FW,Monaco,True,25.7,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False
+Ludovic Blas,25,fr FRA,"FW,MF",Rennes,True,17.4,False,True,False,False,False,True,True,False,False,True,False,False,False,True,False
+Jeremie Boga,26,ci CIV,FW,Nice,True,22.2,False,True,False,False,True,False,True,False,False,False,True,False,True,False,False
+Ângelo Borges,18,br BRA,"FW,MF",Strasbourg,True,12.2,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Bilal Boutobba,24,fr FRA,"FW,MF",Clermont Foot,True,10.3,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Rémy Cabella,33,fr FRA,"FW,MF",Lille,True,16.4,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False
+Thijs Dallinga,22,nl NED,FW,Toulouse,True,27.9,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Mohammed Daramy,21,dk DEN,"FW,MF",Reims,True,18.3,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Jonathan David,23,ca CAN,FW,Lille,True,29.2,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Romain Del Castillo,27,fr FRA,FW,Brest,True,27.7,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False
+Oumar Diakité,19,ci CIV,FW,Reims,True,17.6,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Aron Dønnum,25,no NOR,"FW,MF",Toulouse,True,17.7,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Emanuel Emegha,20,nl NED,FW,Strasbourg,True,23.1,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Khalil Fayad,19,fr FRA,"FW,MF",Montpellier,True,11.4,True,False,False,False,False,True,False,False,True,False,True,False,False,True,False
+Kévin Gameiro,36,fr FRA,"FW,MF",Strasbourg,True,15.0,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False
+Amine Gouiri,23,dz ALG,"FW,MF",Rennes,True,23.0,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Evann Guessand,22,ci CIV,FW,Nice,True,17.3,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True
+Junya Ito,30,jp JPN,"FW,MF",Reims,True,30.2,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False
+Eli Junior Kroupi,17,fr FRA,"FW,MF",Lorient,True,12.0,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False
+Arnaud Kalimuendo,21,fr FRA,FW,Rennes,True,23.8,False,True,False,True,False,False,False,False,True,False,True,False,False,True,False
+Lee Kang-in,22,kr KOR,"FW,MF",Paris S-G,True,16.3,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False
+Reda Khadra,22,de GER,"FW,MF",Reims,True,15.2,False,True,False,False,True,False,True,False,False,False,True,False,True,False,False
+Wahbi Khazri,32,tn TUN,FW,Montpellier,True,12.6,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Grejohn Kyei,27,fr FRA,FW,Clermont Foot,True,11.4,False,True,False,True,False,False,True,False,False,True,False,False,False,False,True
+Gaëtan Laborde,29,fr FRA,"FW,MF",Nice,True,21.2,False,True,False,False,True,False,True,False,False,True,False,False,False,True,False
+Alexandre Lacazette,32,fr FRA,FW,Lyon,True,25.5,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+Mohamed Lamine Bayo,25,gn GUI,FW,Le Havre,True,15.4,True,False,False,True,False,False,True,False,False,True,False,False,False,False,True
+Jérémy Le Douaron,25,fr FRA,FW,Brest,True,18.0,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True
+Frank Magri,23,cm CMR,"FW,MF",Toulouse,True,16.0,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Kylian Mbappé,24,fr FRA,FW,Paris S-G,True,24.0,False,False,True,True,False,False,False,True,False,False,False,True,True,False,False
+Georges Mikautadze,22,ge GEO,FW,Metz,True,19.4,True,False,False,False,True,False,False,True,False,False,False,True,False,True,False
+Terem Moffi,24,ng NGA,FW,Nice,True,21.7,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Mostafa Mohamed,25,eg EGY,FW,Nantes,True,22.2,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Steve Mounié,28,bj BEN,FW,Brest,True,19.7,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Keito Nakamura,23,jp JPN,"FW,MF",Reims,True,15.3,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Iliman Ndiaye,23,sn SEN,"FW,MF",Marseille,True,18.0,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Shamar Nicholson,26,jm JAM,FW,Clermont Foot,True,16.5,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
+Arnaud Nordin,25,fr FRA,"FW,MF",Montpellier,True,13.8,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Ernest Nuamah,19,gh GHA,"FW,MF",Lyon,True,20.4,False,False,True,False,False,True,False,True,False,False,True,False,False,True,False
+Mathias Pereira Lage,26,pt POR,"FW,MF",Brest,True,13.2,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Gonçalo Ramos,22,pt POR,FW,Paris S-G,True,15.8,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Emmanuel Sabbi,25,us USA,"FW,MF",Le Havre,True,17.6,True,False,False,False,True,False,False,False,True,False,True,False,False,True,False
+Wesley Saïd,28,fr FRA,"FW,MF",Lens,True,11.3,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Ismaila Sarr,25,sn SEN,"FW,MF",Marseille,True,16.1,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Martin Satriano,22,uy URU,FW,Brest,True,20.7,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Moses Simon,28,ng NGA,"FW,MF",Nantes,True,19.9,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Musa Al-Taamari,26,jo JOR,FW,Montpellier,True,21.4,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Martin Terrier,26,fr FRA,"FW,MF",Rennes,True,17.0,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Cheikh Tidiane Sabaly,24,sn SEN,"FW,MF",Metz,True,15.3,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Kévin Van Den Kerkhof,27,dz ALG,"FW,MF",Metz,True,21.3,True,False,False,False,False,True,True,False,False,True,False,False,True,False,False
+Edon Zhegrova,24,xk KVX,FW,Lille,True,25.4,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Elijah Adebayo,25,eng ENG,FW,Luton Town,True,15.8,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Simon Adingra,21,ci CIV,FW,Brighton,True,24.7,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Miguel Almirón,29,py PAR,FW,Newcastle Utd,True,21.5,False,True,False,False,False,True,True,False,False,True,False,False,True,False,False
+Zeki Amdouni,22,ch SUI,FW,Burnley,True,21.7,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Michail Antonio,33,jm JAM,FW,West Ham,True,18.8,True,False,False,False,True,False,False,True,False,False,False,True,False,True,False
+Antony,23,br BRA,FW,Manchester Utd,True,14.7,False,False,True,False,False,True,False,False,True,True,False,False,True,False,False
+Taiwo Awoniyi,25,ng NGA,FW,Nott'ham Forest,True,11.6,False,True,False,True,False,False,False,False,True,False,False,True,False,False,True
+Jordan Ayew,31,gh GHA,"FW,MF",Crystal Palace,True,28.3,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Jarrod Bowen,26,eng ENG,FW,West Ham,True,33.5,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Facundo Buonanotte,18,ar ARG,"FW,MF",Brighton,True,15.2,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Dominic Calvert-Lewin,26,eng ENG,FW,Everton,True,24.1,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True
+Matheus Cunha,24,br BRA,"FW,MF",Wolves,True,27.1,False,True,False,False,False,True,False,False,True,False,False,True,False,True,False
+Moussa Diaby,24,fr FRA,"FW,MF",Aston Villa,True,24.2,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False
+Luis Díaz,26,co COL,FW,Liverpool,True,29.2,False,False,True,False,True,False,False,True,False,True,False,False,False,True,False
+Abdoulaye Doucouré,30,ml MLI,"FW,MF",Everton,True,29.2,False,True,False,False,False,True,True,False,False,False,True,False,False,True,False
+Odsonne Édouard,25,fr FRA,"FW,MF",Crystal Palace,True,17.3,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
+Anthony Elanga,21,se SWE,"FW,MF",Nott'ham Forest,True,27.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Evan Ferguson,18,ie IRL,FW,Brighton,True,15.2,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Phil Foden,23,eng ENG,"FW,MF",Manchester City,True,31.7,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Lyle Foster,22,za RSA,"FW,MF",Burnley,True,21.1,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
+Cody Gakpo,24,nl NED,"FW,MF",Liverpool,True,18.3,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Alejandro Garnacho,19,ar ARG,FW,Manchester Utd,True,28.5,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Anthony Gordon,22,eng ENG,FW,Newcastle Utd,True,32.1,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False
+Jack Grealish,27,eng ENG,"FW,MF",Manchester City,True,11.2,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False
+Erling Haaland,23,no NOR,FW,Manchester City,True,28.4,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Hwang Hee-chan,27,kr KOR,"FW,MF",Wolves,True,23.5,True,False,False,False,True,False,False,True,False,False,False,True,False,True,False
+Son Heung-min,31,kr KOR,FW,Tottenham,True,32.6,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False
+Callum Hudson-Odoi,22,eng ENG,"FW,MF",Nott'ham Forest,True,20.6,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Rasmus Højlund,20,dk DEN,FW,Manchester Utd,True,24.0,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+Alexander Isak,23,se SWE,FW,Newcastle Utd,True,25.1,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+Nicolas Jackson,22,sn SEN,FW,Chelsea,True,31.1,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Gabriel Jesus,26,br BRA,FW,Arsenal,True,16.4,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Raúl Jiménez,32,mx MEX,FW,Fulham,True,15.5,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True
+João Pedro,21,br BRA,"FW,MF",Brighton,True,22.7,False,False,True,False,True,False,False,False,True,True,False,False,False,True,False
+Diogo Jota,26,pt POR,FW,Liverpool,True,12.7,False,False,True,False,True,False,False,False,True,False,False,True,False,True,False
+Mohammed Kudus,22,gh GHA,"FW,MF",West Ham,True,27.6,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Dejan Kulusevski,23,se SWE,"FW,MF",Tottenham,True,30.7,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Noni Madueke,21,eng ENG,FW,Chelsea,True,11.7,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False
+Gabriel Martinelli,22,br BRA,FW,Arsenal,True,22.4,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False
+Jean-Philippe Mateta,26,fr FRA,FW,Crystal Palace,True,25.4,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Bryan Mbeumo,23,cm CMR,FW,Brentford,True,21.8,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False
+Oliver McBurnie,27,sct SCO,FW,Sheffield Utd,True,14.2,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Carlton Morris,27,eng ENG,"FW,MF",Luton Town,True,31.8,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Mykhailo Mudryk,22,ua UKR,FW,Chelsea,True,17.5,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Rodrigo Muniz,22,br BRA,FW,Fulham,True,17.7,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Pedro Neto,23,pt POR,"FW,MF",Wolves,True,16.8,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False
+Eddie Nketiah,24,eng ENG,FW,Arsenal,True,12.0,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Darwin Núñez,24,uy URU,FW,Liverpool,True,22.7,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False
+Lucas Paquetá,25,br BRA,"FW,MF",West Ham,True,29.1,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False
+Marcus Rashford,25,eng ENG,FW,Manchester Utd,True,25.2,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Bobby Reid,30,jm JAM,FW,Fulham,True,15.8,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Richarlison,26,br BRA,FW,Tottenham,True,16.6,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Bukayo Saka,21,eng ENG,FW,Arsenal,True,32.4,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Mohamed Salah,31,eg EGY,FW,Liverpool,True,28.2,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Jeffrey Schlupp,30,gh GHA,"FW,MF",Crystal Palace,True,15.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Antoine Semenyo,23,gh GHA,FW,Bournemouth,True,23.4,False,True,False,False,False,True,True,False,False,False,True,False,False,True,False
+Dominic Solanke,25,eng ENG,FW,Bournemouth,True,36.9,True,False,False,False,True,False,False,True,False,False,False,True,False,False,True
+Raheem Sterling,28,eng ENG,"FW,MF",Chelsea,True,22.0,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False
+Marcus Tavernier,24,eng ENG,FW,Bournemouth,True,23.5,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Leandro Trossard,28,be BEL,"FW,MF",Arsenal,True,18.3,False,False,True,False,False,True,False,True,False,False,False,True,True,False,False
+Ollie Watkins,27,eng ENG,FW,Aston Villa,True,35.7,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Danny Welbeck,32,eng ENG,"FW,MF",Brighton,True,18.8,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Willian,34,br BRA,FW,Fulham,True,22.8,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False
+Callum Wilson,31,eng ENG,FW,Newcastle Utd,True,11.0,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Harry Wilson,26,wls WAL,FW,Fulham,True,18.0,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Yoane Wissa,26,cd COD,FW,Brentford,True,27.7,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Chris Wood,31,nz NZL,FW,Nott'ham Forest,True,20.1,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+Pontus Almqvist,24,se SWE,"FW,MF",Lecce,True,23.4,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Felipe Anderson,30,br BRA,"FW,MF",Lazio,True,30.8,False,True,False,False,False,True,True,False,False,False,True,False,True,False,False
+Lameck Banda,22,zm ZAM,FW,Lecce,True,15.0,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Lucas Beltrán,22,ar ARG,"FW,MF",Fiorentina,True,18.8,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Federico Bonazzoli,26,it ITA,"FW,MF",Hellas Verona,True,11.3,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Nicolò Cambiaghi,22,it ITA,"FW,MF",Empoli,True,28.4,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Matteo Cancellieri,21,it ITA,"FW,MF",Empoli,True,19.9,True,False,False,False,True,False,False,False,True,False,True,False,False,True,False
+Francesco Caputo,35,it ITA,FW,Empoli,True,14.1,True,False,False,True,False,False,True,False,False,False,True,False,False,True,False
+Valentín Castellanos,24,ar ARG,FW,Lazio,True,18.7,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Walid Cheddira,25,ma MAR,FW,Frosinone,True,23.6,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Federico Chiesa,25,it ITA,FW,Juventus,True,24.4,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False
+Samuel Chukwueze,24,ng NGA,FW,Milan,True,11.3,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Lorenzo Colombo,21,it ITA,FW,Monza,True,15.1,True,False,False,True,False,False,False,True,False,False,True,False,False,True,False
+Charles De Ketelaere,22,be BEL,"FW,MF",Atalanta,True,22.5,False,False,True,False,True,False,False,False,True,False,False,True,False,True,False
+Paulo Dybala,29,ar ARG,"FW,MF",Roma,True,21.8,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Caleb Ekuban,29,gh GHA,FW,Genoa,True,12.6,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True
+Olivier Giroud,36,fr FRA,FW,Milan,True,26.3,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
+Nicolás González,25,ar ARG,FW,Fiorentina,True,21.3,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Albert Guðmundsson,26,is ISL,"FW,MF",Genoa,True,33.5,False,True,False,False,True,False,False,False,True,False,False,True,True,False,False
+Jonathan Ikone,25,fr FRA,FW,Fiorentina,True,18.7,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Chukwubuikem Ikwuemesi,21,ng NGA,FW,Salernitana,True,11.8,True,False,False,True,False,False,False,False,True,True,False,False,False,False,True
+Ciro Immobile,33,it ITA,FW,Lazio,True,18.4,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Gustav Isaksen,22,dk DEN,FW,Lazio,True,11.9,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Christian Kouamé,25,ci CIV,FW,Fiorentina,True,12.1,False,True,False,False,False,True,False,False,True,True,False,False,False,False,True
+Nikola Krstović,23,me MNE,FW,Lecce,True,26.4,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Khvicha Kvaratskhelia,22,ge GEO,FW,Napoli,True,30.4,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False
+Gianluca Lapadula,33,pe PER,FW,Cagliari,True,13.4,False,True,False,True,False,False,False,True,False,True,False,False,False,False,True
+Armand Lauriente,24,fr FRA,FW,Sassuolo,True,32.3,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Darko Lazović,32,rs SRB,"FW,MF",Hellas Verona,True,21.4,False,True,False,False,True,False,True,False,False,False,True,False,True,False,False
+Rafael Leão,24,pt POR,FW,Milan,True,27.9,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False
+Ademola Lookman,25,ng NGA,"FW,MF",Atalanta,True,21.0,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Lorenzo Lucca,22,it ITA,FW,Udinese,True,28.8,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Romelu Lukaku,30,be BEL,FW,Roma,True,29.3,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Zito Luvumbo,21,ao ANG,"FW,MF",Cagliari,True,21.6,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Lautaro Martínez,25,ar ARG,FW,Inter,True,29.5,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Arkadiusz Milik,29,pl POL,FW,Juventus,True,10.2,False,True,False,False,True,False,False,False,True,False,True,False,False,False,True
+Dany Mota,25,pt POR,"FW,MF",Monza,True,22.8,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Dan Ndoye,22,ch SUI,"FW,MF",Bologna,True,19.7,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+M'Bala Nzola,26,ao ANG,FW,Fiorentina,True,17.2,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Gaetano Oristanio,20,it ITA,"FW,MF",Cagliari,True,12.3,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Riccardo Orsolini,26,it ITA,"FW,MF",Bologna,True,19.9,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Victor Osimhen,24,ng NGA,FW,Napoli,True,22.0,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Roberto Pereyra,32,ar ARG,"FW,MF",Udinese,True,20.6,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Andrea Pinamonti,24,it ITA,FW,Sassuolo,True,34.2,True,False,False,True,False,False,False,False,True,False,True,False,False,True,False
+Matteo Politano,29,it ITA,FW,Napoli,True,26.2,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Christian Pulisic,24,us USA,"FW,MF",Milan,True,28.9,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Giacomo Raspadori,23,it ITA,"FW,MF",Napoli,True,17.6,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Mateo Retegui,24,it ITA,FW,Genoa,True,24.6,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Alexis Saelemaekers,24,be BEL,"FW,MF",Bologna,True,21.0,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Antonio Sanabria,27,py PAR,"FW,MF",Torino,True,23.7,True,False,False,False,True,False,True,False,False,True,False,False,False,False,True
+Gianluca Scamacca,24,it ITA,FW,Atalanta,True,16.1,False,False,True,False,True,False,False,True,False,False,False,True,False,True,False
+Eldor Shomurodov,28,uz UZB,"FW,MF",Cagliari,True,10.4,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True
+Riccardo Sottil,24,it ITA,FW,Fiorentina,True,12.3,False,False,True,False,True,False,False,False,True,True,False,False,True,False,False
+Matìas Soulé,20,ar ARG,"FW,MF",Frosinone,True,34.7,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Loum Tchaouna,19,fr FRA,"FW,MF",Salernitana,True,23.3,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Florian Thauvin,30,fr FRA,FW,Udinese,True,19.0,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Marcus Thuram,25,fr FRA,FW,Inter,True,29.9,False,True,False,True,False,False,False,False,True,False,False,True,False,False,True
+Dušan Vlahović,23,rs SRB,FW,Juventus,True,25.6,False,True,False,True,False,False,True,False,False,False,True,False,False,True,False
+Mattia Zaccagni,28,it ITA,"FW,MF",Lazio,True,21.7,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+Joshua Zirkzee,22,nl NED,FW,Bologna,True,30.7,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Elye Wahi,20,fr FRA,FW,Montpellier/Lens,True,19.0,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Ben Brereton,24,cl CHI,"FW,MF",Villarreal/Sheffield Utd,True,15.3,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Beto,25,gw GNB,FW,Everton/Udinese,True,11.4,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Bradley Barcola,20,fr FRA,"FW,MF",Lyon/Paris S-G,True,18.2,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False
+Sheraldo Becker,28,sr SUR,"FW,MF",Union Berlin/Real Sociedad,True,15.8,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False
+Brennan Johnson,22,wls WAL,FW,Tottenham/Nott'ham Forest,True,25.8,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Cameron Archer,22,eng ENG,"FW,MF",Sheffield Utd/Aston Villa,True,20.5,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Saïd Benrahma,27,dz ALG,"FW,MF",Lyon/West Ham,True,15.5,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False
+Vitinha Oliveira,23,pt POR,FW,Marseille/Genoa,True,13.5,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Jordan Pefok,27,us USA,FW,Gladbach/Union Berlin,True,16.1,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
+Andrea Belotti,29,it ITA,FW,Fiorentina/Roma,True,18.0,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Tino Kadewere,27,zw ZIM,"FW,MF",Lyon/Nantes,True,12.0,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Timo Werner,27,de GER,FW,RB Leipzig/Tottenham,True,11.3,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False
+Jeremy Doku,21,be BEL,"FW,MF",Rennes/Manchester City,True,18.9,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Neal Maupay,26,fr FRA,FW,Brentford/Everton,True,15.9,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Niclas Füllkrug,30,de GER,FW,Werder Bremen/Dortmund,True,26.6,False,True,False,True,False,False,False,True,False,False,False,True,False,False,True
+Duván Zapata,32,co COL,FW,Torino/Atalanta,True,33.2,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Pablo Fornals,27,es ESP,"FW,MF",Betis/West Ham,True,17.5,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Ezequiel Ávila,29,ar ARG,"FW,MF",Osasuna/Betis,True,12.9,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Samuel Omorodion,19,es ESP,FW,Alavés/Granada,True,22.2,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Cole Palmer,21,eng ENG,"FW,MF",Chelsea/Manchester City,True,29.1,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Cyril Ngonge,23,be BEL,"FW,MF",Hellas Verona/Napoli,True,19.4,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Milan Đurić,33,ba BIH,FW,Hellas Verona/Monza,True,27.4,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Roberto Piccoli,22,it ITA,FW,Empoli/Lecce,True,15.7,True,False,False,False,True,False,True,False,False,True,False,False,False,False,True
+Mohamed Ali Cho,19,fr FRA,FW,Real Sociedad/Nice,True,12.4,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Gianluca Gaetano,23,it ITA,"FW,MF",Cagliari/Napoli,True,10.1,False,False,True,False,False,True,False,True,False,False,False,True,True,False,False
+David Datro Fofana,20,ci CIV,FW,Union Berlin/Burnley,True,17.4,True,False,False,False,True,False,True,False,False,False,True,False,False,True,False
+Randal Kolo Muani,24,fr FRA,"FW,MF",Eint Frankfurt/Paris S-G,True,15.8,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Kevin Behrens,32,de GER,FW,Wolfsburg/Union Berlin,True,20.8,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True
+Abdessamad Ezzalzouli,21,ma MAR,FW,Barcelona/Betis,True,10.4,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False
+Alex Iwobi,27,ng NGA,"FW,MF",Everton/Fulham,True,26.0,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False
+Alex Sola,24,es ESP,"FW,MF",Alavés/Real Sociedad,True,14.3,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Mohamed Amoura,23,dz ALG,FW,Union SG,False,15.9,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Tolu Arokodare,22,ng NGA,FW,Genk,False,14.5,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
+Felipe Avenatti,30,uy URU,"FW,MF",Kortrijk,False,17.4,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Youssouph Badji,21,sn SEN,"FW,MF",Charleroi,False,10.4,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True
+Michel-Ange Balikwisha,22,be BEL,"FW,MF",Antwerp,False,19.8,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Christopher Bonsu Baah,18,gh GHA,FW,Genk,False,13.2,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False
+Jonatan Braut Brunes,22,no NOR,FW,OH Leuven,False,11.8,True,False,False,True,False,False,False,True,False,False,True,False,False,True,False
+Regan Charles-Cook,26,gd GRN,"FW,MF",Eupen,False,14.9,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Hugo Cuypers,26,be BEL,FW,Gent,False,18.1,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Oday Dabbagh,24,ps PLE,FW,Charleroi,False,16.3,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Jón Dagur Þorsteinsson,24,is ISL,"FW,MF",OH Leuven,False,20.3,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Isaak Davies,21,wls WAL,FW,Kortrijk,False,19.2,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Kévin Denkey,22,tg TOG,FW,Cercle Brugge,False,27.7,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Kasper Dolberg,25,dk DEN,FW,Anderlecht,False,23.9,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Anders Dreyer,25,dk DEN,"FW,MF",Anderlecht,False,24.9,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Dennis Eckert,26,de GER,FW,Union SG,False,12.6,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Alfreð Finnbogason,34,is ISL,FW,Eupen,False,12.5,False,True,False,False,True,False,True,False,False,True,False,False,False,True,False
+Matija Frigan,20,hr CRO,FW,Westerlo,False,11.2,True,False,False,True,False,False,True,False,False,True,False,False,False,False,True
+Makhtar Gueye,25,sn SEN,FW,RWD Molenbeek,False,24.2,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Parfait Guiagon,22,ci CIV,"FW,MF",Charleroi,False,15.2,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Geoffry Hairemans,31,be BEL,"FW,MF",Mechelen,False,23.1,False,False,True,False,False,True,False,True,False,False,True,False,False,True,False
+George Ilenikhena,16,fr FRA,FW,Antwerp,False,10.8,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Vincent Janssen,29,nl NED,"FW,MF",Antwerp,False,25.6,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Jutglà,24,es ESP,FW,Club Brugge,False,13.7,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False
+Wilfried Kanga,25,ci CIV,FW,Standard Liège,False,25.7,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Fatih Kaya,23,0,FW,Sint-Truiden,False,13.0,False,True,False,True,False,False,False,True,False,True,False,False,False,False,True
+Lion Lauberbach,25,de GER,FW,Mechelen,False,19.2,True,False,False,False,True,False,True,False,False,True,False,False,False,False,True
+Alan Minda,20,ec ECU,"FW,MF",Cercle Brugge,False,16.8,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Arbnor Muja,24,al ALB,"FW,MF",Antwerp,False,13.4,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False
+Gustaf Nilsson,26,se SWE,FW,Union SG,False,16.1,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Nachon Nsingi,22,be BEL,"FW,MF",OH Leuven,False,13.5,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Isaac Nuhu,21,gh GHA,"FW,MF",Eupen,False,25.3,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Antonio Nusa,18,no NOR,"FW,MF",Club Brugge,False,11.2,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Joseph Paintsil,25,gh GHA,FW,Genk,False,19.8,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Andreas Skov Olsen,23,dk DEN,FW,Club Brugge,False,23.6,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Thibo Somers,24,be BEL,"FW,MF",Cercle Brugge,False,25.5,False,True,False,False,False,True,False,True,False,False,True,False,False,False,True
+Yira Sor,23,ng NGA,FW,Genk,False,11.9,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Kamal Sowah,23,gh GHA,"FW,MF",Standard Liège,False,13.6,False,True,False,False,False,True,True,False,False,True,False,False,False,True,False
+Thiago,22,br BRA,FW,Club Brugge,False,20.4,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Tarik Tissoudali,30,ma MAR,"FW,MF",Gent,False,17.1,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False
+Griffin Yow,20,us USA,"FW,MF",Westerlo,False,16.7,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Philip Zinckernagel,28,dk DEN,"FW,MF",Club Brugge,False,16.8,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Che Adams,27,sct SCO,FW,Southampton,False,25.4,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Keshi Anderson,28,eng ENG,"FW,MF",Birmingham City,False,11.3,False,False,True,False,False,True,False,False,True,True,False,False,True,False,False
+Adam Armstrong,26,eng ENG,"FW,MF",Southampton,False,41.6,False,True,False,True,False,False,True,False,False,False,True,False,False,True,False
+Sinclair Armstrong,20,ie IRL,FW,QPR,False,19.8,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Yaser Asprilla,19,co COL,"FW,MF",Watford,False,30.4,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Juninho Bacuna,25,cw CUW,"FW,MF",Birmingham City,False,33.0,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Patrick Bamford,29,eng ENG,"FW,MF",Leeds United,False,16.6,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Josh Bowler,24,eng ENG,"FW,MF",Cardiff City,False,26.4,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Tom Bradshaw,31,wls WAL,FW,Millwall,False,22.3,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Nathan Broadhead,25,wls WAL,FW,Ipswich Town,False,25.5,False,True,False,False,True,False,True,False,False,False,False,True,True,False,False
+Mustapha Bundu,26,sl SLE,"FW,MF",Plymouth Argyle,False,10.7,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Delano Burgzorg,24,nl NED,FW,Huddersfield,False,24.5,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Oliver Burke,26,sct SCO,"FW,MF",Birmingham City,False,11.2,True,False,False,False,True,False,True,False,False,True,False,False,False,False,True
+Wes Burns,28,wls WAL,FW,Ipswich Town,False,26.5,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Bailey-Tye Cadamarteri,18,jm JAM,FW,Sheffield Weds,False,12.2,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Tyrese Campbell,23,eng ENG,FW,Stoke City,False,13.3,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Fabio Carvalho,20,pt POR,"FW,MF",Hull City,False,19.1,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Ilias Chair,25,ma MAR,"FW,MF",QPR,False,41.5,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Josh Coburn,20,eng ENG,FW,Middlesbrough,False,11.1,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Aaron Connolly,23,ie IRL,FW,Hull City,False,13.5,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Tommy Conway,20,sct SCO,FW,Bristol City,False,25.4,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Harry Cornick,28,eng ENG,"FW,MF",Bristol City,False,12.2,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True
+Liam Cullen,24,wls WAL,"FW,MF",Swansea City,False,26.4,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Patson Daka,24,zm ZAM,FW,Leicester City,False,12.1,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Liam Delap,20,eng ENG,FW,Hull City,False,24.5,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Siriki Dembélé,26,ci CIV,"FW,MF",Birmingham City,False,22.0,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Tyrhys Dolan,21,eng ENG,"FW,MF",Blackburn,False,25.8,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Lyndon Dykes,27,sct SCO,"FW,MF",QPR,False,30.4,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True
+Tom Eaves,31,eng ENG,FW,Rotherham Utd,False,11.8,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Samuel Edozie,20,eng ENG,"FW,MF",Southampton,False,15.2,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Kion Etete,21,eng ENG,FW,Cardiff City,False,12.1,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True
+Christian Fassnacht,29,ch SUI,"FW,MF",Norwich City,False,20.2,False,True,False,False,False,True,True,False,False,False,True,False,False,True,False
+Abdul Fatawu Issahaku,19,gh GHA,FW,Leicester City,False,31.3,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Tom Fellows,20,eng ENG,"FW,MF",West Brom,False,16.6,False,False,True,False,True,False,False,False,True,False,False,True,False,True,False
+Zian Flemming,24,nl NED,"FW,MF",Millwall,False,41.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Marcus Forss,24,fi FIN,FW,Middlesbrough,False,12.4,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Ryan Fraser,29,sct SCO,"FW,MF",Southampton,False,18.1,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Sam Gallagher,27,eng ENG,"FW,MF",Blackburn,False,19.1,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Djeidi Gassama,19,fr FRA,"FW,MF",Sheffield Weds,False,16.4,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Wilfried Gnonto,19,it ITA,"FW,MF",Leeds United,False,18.4,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False
+Matthew Godden,32,eng ENG,FW,Coventry City,False,22.7,True,False,False,True,False,False,True,False,False,False,True,False,False,True,False
+Karlan Grant,25,eng ENG,"FW,MF",Cardiff City,False,34.7,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Ryan Hardie,26,sct SCO,FW,Plymouth Argyle,False,31.5,True,False,False,True,False,False,True,False,False,False,True,False,False,True,False
+Marcus Harness,27,eng ENG,"FW,MF",Ipswich Town,False,10.9,False,True,False,False,False,True,True,False,False,False,True,False,False,True,False
+Onel Hernández,30,cu CUB,"FW,MF",Norwich City,False,13.2,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False
+George Hirst,24,eng ENG,FW,Ipswich Town,False,19.6,False,True,False,True,False,False,True,False,False,False,True,False,False,True,False
+Scott Hogan,31,ie IRL,FW,Birmingham City,False,11.2,True,False,False,True,False,False,True,False,False,True,False,False,False,False,True
+Jordan Hugill,31,eng ENG,FW,Rotherham Utd,False,25.9,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True
+Omari Hutchinson,19,eng ENG,"FW,MF",Ipswich Town,False,24.4,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Adam Idah,22,ie IRL,FW,Norwich City,False,14.2,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Kelechi Iheanacho,26,ng NGA,FW,Leicester City,False,10.2,False,True,False,True,False,False,True,False,False,False,True,False,False,True,False
+Vakoun Issouf Bayo,26,ci CIV,FW,Watford,False,24.7,False,True,False,False,True,False,True,False,False,False,True,False,False,False,True
+Kayden Jackson,29,eng ENG,FW,Ipswich Town,False,10.7,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Daniel James,25,wls WAL,FW,Leeds United,False,27.6,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Isaiah Jones,24,eng ENG,FW,Middlesbrough,False,28.7,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Bae Junho,19,kr KOR,"FW,MF",Stoke City,False,26.6,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Will Keane,30,ie IRL,"FW,MF",Preston,False,29.0,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False
+Josh Koroma,24,sl SLE,"FW,MF",Huddersfield,False,26.9,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Emmanuel Latte Lath,24,ci CIV,FW,Middlesbrough,False,23.2,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Mehdi Léris,25,dz ALG,"FW,MF",Stoke City,False,17.6,False,True,False,False,False,True,False,True,False,False,True,False,False,False,True
+Jamal Lowe,29,jm JAM,"FW,MF",Swansea City,False,25.0,True,False,False,False,True,False,True,False,False,False,True,False,False,True,False
+Matheus Martins,20,br BRA,"FW,MF",Watford,False,19.6,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Stephy Mavididi,25,eng ENG,FW,Leicester City,False,39.9,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Kasey McAteer,21,eng ENG,FW,Leicester City,False,12.9,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Riley McGree,24,au AUS,"FW,MF",Middlesbrough,False,14.0,False,True,False,False,False,True,True,False,False,False,True,False,True,False,False
+Yakou Méïte,27,ci CIV,FW,Cardiff City,False,23.9,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True
+Koji Miyoshi,26,jp JPN,"FW,MF",Birmingham City,False,27.7,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Ryan Mmaee,25,ma MAR,FW,Stoke City,False,16.7,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True
+Andrew Moran,19,ie IRL,"FW,MF",Blackburn,False,20.6,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Anthony Musaba,22,nl NED,"FW,MF",Sheffield Weds,False,29.1,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Kevin Nisbet,26,sct SCO,FW,Millwall,False,15.5,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True
+Sam Nombe,24,eng ENG,"FW,MF",Rotherham Utd,False,25.2,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Milutin Osmajić,24,me MNE,FW,Preston,False,19.4,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Jaden Philogene Bidace,21,eng ENG,"FW,MF",Hull City,False,31.2,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Mileta Rajovic,24,dk DEN,FW,Watford,False,20.6,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+Emil Riis Jakobsen,25,dk DEN,FW,Preston,False,14.3,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Jon Rowe,20,eng ENG,"FW,MF",Norwich City,False,22.7,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Georginio Rutter,21,fr FRA,"FW,MF",Leeds United,False,41.5,False,False,True,False,True,False,False,False,True,True,False,False,False,True,False
+Borja Sainz,22,es ESP,FW,Norwich City,False,22.8,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Josh Sargent,23,us USA,FW,Norwich City,False,20.6,False,True,False,True,False,False,False,False,True,False,False,True,False,True,False
+Ken Sema,29,se SWE,"FW,MF",Watford,False,22.3,False,False,True,False,True,False,False,True,False,True,False,False,True,False,False
+Arnór Sigurðsson,24,is ISL,"FW,MF",Blackburn,False,16.2,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Sam Silvera,22,au AUS,FW,Middlesbrough,False,15.2,False,True,False,False,False,True,True,False,False,False,True,False,True,False,False
+Ellis Simms,22,eng ENG,FW,Coventry City,False,30.3,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Michael Smith,31,eng ENG,"FW,MF",Sheffield Weds,False,13.7,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Paul Smyth,25,nir NIR,"FW,MF",QPR,False,24.3,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Jay Stansfield,20,eng ENG,"FW,MF",Birmingham City,False,37.1,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Kamaldeen Sulemana,21,gh GHA,"FW,MF",Southampton,False,10.6,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Crysencio Summerville,21,nl NED,FW,Leeds United,False,38.9,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False
+Mark Sykes,25,ie IRL,"FW,MF",Bristol City,False,28.7,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Sorba Thomas,23,wls WAL,"FW,MF",Huddersfield,False,38.1,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Brandon Thomas-Asante,24,gh GHA,FW,West Brom,False,30.4,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Adama Traoré,28,ml MLI,"FW,MF",Hull City,False,11.9,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Jamie Vardy,36,eng ENG,FW,Leicester City,False,19.6,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+André Vidigal,24,pt POR,"FW,MF",Stoke City,False,18.7,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Ben Waine,22,nz NZL,FW,Plymouth Argyle,False,10.2,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Jed Wallace,29,eng ENG,"FW,MF",West Brom,False,31.3,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Danny Ward,31,eng ENG,FW,Huddersfield,False,12.7,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Nahki Wells,33,bm BER,FW,Bristol City,False,16.9,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Morgan Whittaker,22,eng ENG,"FW,MF",Plymouth Argyle,False,44.1,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False
+Chris Willock,25,eng ENG,"FW,MF",QPR,False,25.5,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Haji Wright,25,us USA,"FW,MF",Coventry City,False,33.0,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Jerry Yates,26,eng ENG,FW,Swansea City,False,25.4,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Bobby Adekanye,24,nl NED,FW,Go Ahead Eag,False,20.0,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Chuba Akpom,27,eng ENG,"FW,MF",Ajax,False,11.7,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Pelle van Amersfoort,27,nl NED,FW,Heerenveen,False,23.7,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
+Thibo Baeten,21,be BEL,"FW,MF",Go Ahead Eag,False,10.1,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Johan Bakayoko,20,be BEL,FW,PSV Eindhoven,False,27.7,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False
+Steven Berghuis,31,nl NED,"FW,MF",Ajax,False,16.0,False,False,True,False,True,False,True,False,False,False,True,False,True,False,False
+Steven Bergwijn,25,nl NED,"FW,MF",Ajax,False,21.6,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Ruben van Bommel,18,nl NED,FW,AZ Alkmaar,False,17.2,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Othman Boussaid,23,be BEL,FW,Utrecht,False,21.9,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Amine Boutrah,22,fr FRA,FW,Vitesse,False,20.2,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Myron van Brederode,20,nl NED,FW,AZ Alkmaar,False,14.6,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Jakob Breum,19,dk DEN,FW,Go Ahead Eag,False,16.1,False,False,True,False,False,True,False,False,True,True,False,False,True,False,False
+Brian Brobbey,21,nl NED,FW,Ajax,False,26.7,False,False,True,True,False,False,False,False,True,False,False,True,False,False,True
+Charles-Andréas Brym,24,ca CAN,"FW,MF",Sparta R'dam,False,15.3,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Denilho Cleonise,21,nl NED,"FW,MF",RKC Waalwijk,False,20.0,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Iñigo Córdoba,26,es ESP,"FW,MF",Fortuna Sittard,False,29.2,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Couhaib Driouech,21,ma MAR,"FW,MF",Excelsior,False,21.3,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Oliver Edvardsen,24,no NOR,"FW,MF",Go Ahead Eag,False,26.1,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Victor Edvardsen,27,se SWE,FW,Go Ahead Eag,False,20.3,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Mario Engels,29,de GER,"FW,MF",Heracles Almelo,False,17.8,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Derensili Fernandes,22,nl NED,"FW,MF",Excelsior,False,14.3,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Santiago Giménez,22,mx MEX,FW,Feyenoord,False,26.3,False,True,False,True,False,False,False,False,True,False,False,True,False,True,False
+Roberto González,22,es ESP,"FW,MF",NEC Nijmegen,False,15.4,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Kornelius Hansen,22,no NOR,FW,Almere City,False,15.4,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Sontje Hansen,21,nl NED,FW,NEC Nijmegen,False,21.2,False,False,True,False,True,False,False,False,True,False,False,True,True,False,False
+Emil Hansson,25,se SWE,"FW,MF",Heracles Almelo,False,20.9,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Luka Ivanušec,24,hr CRO,FW,Feyenoord,False,12.9,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Darius Johnson,23,gd GRN,"FW,MF",Volendam,False,13.3,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Luuk de Jong,32,nl NED,FW,PSV Eindhoven,False,30.6,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Michiel Kramer,34,nl NED,FW,RKC Waalwijk,False,20.3,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Rajiv van La Parra,32,nl NED,"FW,MF",Almere City,False,20.0,False,True,False,False,False,True,False,False,True,True,False,False,False,False,True
+Lazaros Lamprou,25,gr GRE,"FW,MF",Excelsior,False,18.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Tobias Lauritsen,25,no NOR,FW,Sparta R'dam,False,27.6,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
+Isac Lidberg,24,se SWE,FW,Utrecht,False,10.5,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Bryan Limbombe,22,be BEL,"FW,MF",Heracles Almelo,False,19.3,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Chris Lokesa,18,be BEL,"FW,MF",RKC Waalwijk,False,22.9,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Hirving Lozano,28,mx MEX,FW,PSV Eindhoven,False,17.1,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+David Min,24,nl NED,FW,RKC Waalwijk,False,18.4,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Yankuba Minteh,19,gm GAM,FW,Feyenoord,False,16.2,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Robert Mühren,34,nl NED,FW,Volendam,False,16.5,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Younes Namli,29,dk DEN,"FW,MF",Zwolle,False,28.5,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Camiel Neghli,21,nl NED,FW,Sparta R'dam,False,15.0,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Ché Nunnely,24,nl NED,FW,Heerenveen,False,19.0,False,True,False,False,True,False,True,False,False,True,False,False,False,True,False
+Koki Ogawa,25,jp JPN,FW,NEC Nijmegen,False,24.5,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+Bilal Ould-Chikh,26,ma MAR,"FW,MF",Volendam,False,23.6,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Igor Paixão,23,br BRA,FW,Feyenoord,False,21.4,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False
+Troy Parrott,21,ie IRL,FW,Excelsior,False,17.6,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Vangelis Pavlidis,24,gr GRE,FW,AZ Alkmaar,False,33.3,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Gyan de Regt,20,nl NED,"FW,MF",Vitesse,False,13.2,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Thomas Robinet,26,fr FRA,"FW,MF",Almere City,False,31.7,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True
+Daan Rots,22,nl NED,FW,Twente,False,28.6,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Osame Sahraoui,22,no NOR,FW,Heerenveen,False,27.4,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False
+Koki Saito,21,jp JPN,FW,Sparta R'dam,False,18.4,False,False,True,False,True,False,False,True,False,True,False,False,False,True,False
+Mohamed Sankoh,19,nl NED,FW,Heracles Almelo,False,12.1,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Kodai Sano,19,jp JPN,"FW,MF",NEC Nijmegen,False,17.7,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Kaj Sierhuis,25,nl NED,FW,Fortuna Sittard,False,24.2,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True
+Lennart Thy,31,de GER,"FW,MF",Zwolle,False,29.7,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False
+Malik Tillman,21,us USA,"FW,MF",PSV Eindhoven,False,17.7,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Michel Vlap,26,nl NED,FW,Twente,False,21.9,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Patrik Wålemark,21,se SWE,FW,Heerenveen,False,13.8,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Ricky van Wolfswinkel,34,nl NED,"FW,MF",Twente,False,21.0,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Elves Baldé,23,gw GNB,"FW,MF",Farense,False,10.8,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Simon Banza,26,cd COD,FW,Braga,False,22.2,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True
+Bachir Belloumi,21,dz ALG,"FW,MF",Farense,False,23.0,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Emmanuel Boateng,27,gh GHA,FW,Rio Ave,False,20.7,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True
+Róbert Boženík,23,sk SVK,FW,Boavista,False,28.6,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Bruma,28,pt POR,"FW,MF",Braga,False,19.1,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Arthur Cabral,25,br BRA,FW,Benfica,False,14.8,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Jhonder Cádiz,28,ve VEN,FW,Famalicão,False,25.6,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+João Pedro Gomes Camacho,29,pt POR,"FW,MF",Moreirense,False,23.1,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Felippe Cardoso,24,br BRA,FW,Casa Pia,False,17.4,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Ronie Carrillo,26,ec ECU,"FW,MF",Portimonense,False,14.6,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Cassiano,34,br BRA,FW,Estoril,False,17.9,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Tidjany Chabrol,21,fr FRA,"FW,MF",Gil Vicente FC,False,12.0,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Clayton,24,br BRA,FW,Casa Pia,False,18.8,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Francisco Conceição,20,pt POR,"FW,MF",Porto,False,21.0,False,False,True,False,True,False,False,False,True,True,False,False,True,False,False
+Félix Correia,22,pt POR,FW,Gil Vicente FC,False,24.1,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Murilo Costa,28,br BRA,FW,Gil Vicente FC,False,22.1,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False
+Ángel Di María,35,ar ARG,FW,Benfica,False,24.6,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Álvaro djaló,23,es ESP,"FW,MF",Braga,False,19.9,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Bruno Duarte,27,br BRA,FW,Farense,False,25.1,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Marcus Edwards,24,eng ENG,"FW,MF",Sporting CP,False,14.9,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Samuel Essende,25,cd COD,FW,Vizela,False,29.6,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True
+Evanilson,23,br BRA,FW,Porto,False,22.8,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Galeno,25,br BRA,"FW,MF",Porto,False,24.9,False,False,True,False,True,False,False,False,True,False,True,False,True,False,False
+Pedro Gonçalves,25,pt POR,"FW,MF",Sporting CP,False,28.6,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Cristo González,25,es ESP,"FW,MF",Arouca,False,30.9,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Rafik Guitane,24,fr FRA,"FW,MF",Estoril,False,30.1,False,False,True,False,False,True,False,True,False,False,False,True,True,False,False
+Viktor Gyökeres,25,se SWE,FW,Sporting CP,False,32.4,False,False,True,True,False,False,False,False,True,False,False,True,False,True,False
+Héctor,27,es ESP,FW,Chaves,False,28.8,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Ricardo Horta,28,pt POR,"FW,MF",Braga,False,26.0,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+André Inácio,21,br BRA,"FW,MF",Estrela,False,13.3,True,False,False,False,True,False,False,False,True,False,True,False,False,True,False
+Léo Jabá,24,br BRA,"FW,MF",Estrela,False,24.7,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Jason,29,es ESP,"FW,MF",Arouca,False,28.5,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+Sylvester Jasper,21,bg BUL,"FW,MF",Portimonense,False,18.6,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Jo,28,br BRA,"FW,MF",Chaves,False,11.3,True,False,False,True,False,False,False,False,True,True,False,False,False,False,True
+Joca,27,pt POR,"FW,MF",Rio Ave,False,19.0,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False
+Kikas,24,pt POR,"FW,MF",Estrela,False,17.3,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Kobamelo Kodisang,23,za RSA,FW,Moreirense,False,18.0,False,True,False,False,True,False,True,False,False,True,False,False,False,True,False
+Matías Lacava,20,ve VEN,"FW,MF",Vizela,False,14.8,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Bruno Lourenço,25,pt POR,"FW,MF",Boavista,False,22.4,True,False,False,False,True,False,False,True,False,False,False,True,True,False,False
+José Luis Rodríguez,25,pa PAN,FW,Famalicão,False,16.6,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Madson,23,br BRA,"FW,MF",Moreirense,False,14.9,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+João Mário,30,pt POR,"FW,MF",Benfica,False,26.9,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Alejandro Marqués,22,ve VEN,FW,Estoril,False,15.1,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Marco Matias,34,pt POR,"FW,MF",Farense,False,25.5,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+João Mendes,28,pt POR,"FW,MF",Vitória,False,16.0,False,False,True,False,False,True,False,True,False,False,False,True,True,False,False
+Rafa Mújica,24,es ESP,FW,Arouca,False,28.1,False,True,False,True,False,False,False,False,True,False,False,True,False,True,False
+David Neres,26,br BRA,FW,Benfica,False,12.6,False,False,True,False,False,True,True,False,False,False,True,False,True,False,False
+Régis N’Do,22,bf BFA,"FW,MF",Estrela,False,11.0,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Paulinho,30,pt POR,"FW,MF",Sporting CP,False,14.5,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Rúben Tiago Rodrigues Ribeiro,35,pt POR,"FW,MF",Chaves,False,18.7,False,True,False,False,False,True,False,False,True,True,False,False,True,False,False
+Abel Ruiz,23,es ESP,"FW,MF",Braga,False,21.1,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Leandro Sanca,23,gw GNB,"FW,MF",Chaves,False,16.3,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Nuno Santos,24,pt POR,"FW,MF",Vitória,False,10.7,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False
+André Silva,26,br BRA,FW,Vitória,False,19.7,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Jota Silva,23,pt POR,"FW,MF",Vitória,False,30.9,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Yuki Soma,26,jp JPN,"FW,MF",Casa Pia,False,21.0,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Alberto Soro,24,es ESP,"FW,MF",Vizela,False,10.0,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Mehdi Taremi,31,ir IRN,"FW,MF",Porto,False,16.4,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Heriberto Tavares,26,pt POR,"FW,MF",Estoril,False,13.9,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Ronaldo Tavares,26,pt POR,FW,Estrela,False,12.8,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
+Francisco Trincão,23,pt POR,"FW,MF",Sporting CP,False,18.9,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Hélio Varela,21,cv CPV,"FW,MF",Portimonense,False,30.5,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Fabio Abiuso,20,gr GRE,"FW,MF",Modena,False,13.7,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Giuseppe Ambrosino,19,it ITA,FW,Catanzaro,False,14.1,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Alessandro Arena,22,it ITA,"FW,MF",Pisa,False,17.0,False,False,True,False,False,True,False,True,False,True,False,False,True,False,False
+Adrian Benedyczak,22,pl POL,FW,Parma,False,20.3,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Tommaso Biasci,28,it ITA,"FW,MF",Catanzaro,False,23.1,True,False,False,True,False,False,False,True,False,False,False,True,False,True,False
+Ange-Yoan Bonny,19,fr FRA,FW,Parma,False,22.1,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Fabio Borini,32,it ITA,"FW,MF",Sampdoria,False,16.3,False,True,False,False,True,False,False,False,True,False,False,True,False,True,False
+Gennaro Borrelli,23,it ITA,FW,Brescia,False,16.1,True,False,False,True,False,False,False,False,True,False,False,True,False,False,True
+Matteo Brunori,28,it ITA,FW,Palermo,False,33.2,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+Nicolò Buso,23,it ITA,FW,Calcio Lecco 1912,False,26.7,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Karlo Butić,24,hr CRO,FW,FeralpiSalò,False,18.9,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Massimo Coda,34,it ITA,FW,Cremonese,False,26.4,False,False,True,True,False,False,True,False,False,False,True,False,False,True,False
+Mattia Compagnon,21,it ITA,FW,FeralpiSalò,False,17.4,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Patrick Cutrone,25,it ITA,FW,Como,False,27.4,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Manuel De Luca,25,it ITA,FW,Sampdoria,False,21.8,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
+Federico Di Francesco,29,it ITA,"FW,MF",Palermo,False,25.8,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Francesco Esposito,18,it ITA,FW,Spezia,False,19.8,False,True,False,True,False,False,False,False,True,True,False,False,False,False,True
+Andrea Favilli,26,it ITA,FW,Ternana,False,11.3,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True
+Aldo Florenzi,21,it ITA,"FW,MF",Cosenza,False,11.9,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Alessandro Gabrielloni,29,it ITA,"FW,MF",Como,False,21.7,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
+Cedric Gondo,26,ci CIV,FW,Reggiana,False,23.4,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Christian Gytkjær,33,dk DEN,FW,Venezia,False,19.9,False,True,False,True,False,False,True,False,False,False,False,True,False,False,True
+Pietro Iemmello,31,it ITA,FW,Catanzaro,False,27.9,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Roberto Insigne,29,it ITA,"FW,MF",Palermo,False,13.2,False,False,True,False,False,True,True,False,False,True,False,False,True,False,False
+Flavio Junior Bianchi,23,it ITA,"FW,MF",Brescia,False,24.8,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Andrea La Mantia,32,it ITA,FW,FeralpiSalò,False,21.3,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
+Andrea Magrassi,30,it ITA,FW,Cittadella,False,13.0,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Tommy Maistrello,30,it ITA,FW,Cittadella,False,10.7,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True
+Dennis Man,24,ro ROU,FW,Parma,False,26.0,False,False,True,False,False,True,False,True,False,False,True,False,False,True,False
+Jacopo Manconi,29,it ITA,"FW,MF",Modena,False,18.4,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Leonardo Mancuso,31,it ITA,"FW,MF",Palermo,False,10.3,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
+Simone Mazzocchi,24,it ITA,"FW,MF",Cosenza,False,26.5,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Pedro Mendes,23,pt POR,FW,Ascoli,False,24.5,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Silvio Merkaj,25,al ALB,"FW,MF",Südtirol,False,15.6,True,False,False,False,True,False,False,False,True,False,False,True,False,False,True
+Valentin Mihaila,23,ro ROU,"FW,MF",Parma,False,17.8,False,True,False,False,True,False,False,False,True,False,True,False,True,False,False
+Jan Mlakar,24,si SVN,"FW,MF",Pisa,False,16.0,True,False,False,False,True,False,False,True,False,False,False,True,False,True,False
+Gabriele Moncini,27,it ITA,FW,Brescia,False,21.5,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Gregorio Morachioli,23,it ITA,"FW,MF",Bari,False,10.5,False,True,False,False,True,False,True,False,False,True,False,False,False,True,False
+Stefano Moreo,30,it ITA,"FW,MF",Pisa,False,22.4,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Luca Moro,22,it ITA,"FW,MF",Spezia,False,11.2,True,False,False,True,False,False,False,False,True,False,True,False,False,False,True
+Marco Nasti,19,it ITA,FW,Bari,False,24.5,True,False,False,True,False,False,False,True,False,False,True,False,False,True,False
+Ilija Nestorovski,33,mk MKD,"FW,MF",Ascoli,False,11.6,True,False,False,False,True,False,False,False,True,True,False,False,False,False,True
+Andrija Novakovich,26,us USA,FW,Calcio Lecco 1912,False,31.1,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
+Raphael Odogwu,32,ng NGA,FW,Südtirol,False,21.8,False,True,False,True,False,False,False,False,True,False,False,True,False,False,True
+Luca Pandolfi,25,it ITA,FW,Cittadella,False,18.2,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
+Anthony Partipilo,28,it ITA,FW,Parma,False,11.1,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Emanuele Pecorino,22,it ITA,FW,Südtirol,False,10.9,True,False,False,False,True,False,False,False,True,False,True,False,False,False,True
+Nicholas Pierini,24,it ITA,"FW,MF",Venezia,False,23.5,False,False,True,False,True,False,False,False,True,False,True,False,False,True,False
+Filippo Pittarello,26,it ITA,FW,Cittadella,False,27.1,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Joel Pohjanpalo,28,fi FIN,FW,Venezia,False,30.0,False,True,False,True,False,False,True,False,False,False,False,True,False,False,True
+Antonio Raimondo,19,it ITA,FW,Ternana,False,24.7,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Nicola Rauti,23,it ITA,FW,Südtirol,False,11.2,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Pablo Rodríguez,21,es ESP,"FW,MF",Ascoli,False,25.2,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Giuseppe Sibilli,26,it ITA,"FW,MF",Bari,False,32.0,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Luca Strizzolo,31,it ITA,"FW,MF",Modena,False,10.8,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True
+Gennaro Tutino,26,it ITA,"FW,MF",Cosenza,False,31.0,False,True,False,True,False,False,False,False,True,False,False,True,False,True,False
+Franco Vázquez,34,ar ARG,"FW,MF",Cremonese,False,27.8,False,False,True,False,False,True,False,False,True,True,False,False,False,True,False
+Przemysław Płacheta,25,pl POL,FW,Norwich City/Swansea City,False,12.5,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False
+Diego Falcinelli,32,it ITA,FW,Spezia/Modena,False,19.2,False,True,False,False,True,False,False,True,False,True,False,False,False,False,True
+Sylla Sow,26,nl NED,FW,Go Ahead Eag/NEC Nijmegen,False,12.4,False,True,False,True,False,False,False,True,False,False,False,True,False,True,False
+Francesco Forte,30,it ITA,"FW,MF",Cosenza/Ascoli,False,18.9,True,False,False,True,False,False,False,False,True,True,False,False,False,False,True
+Dennis Johnsen,25,no NOR,"FW,MF",Cremonese/Venezia,False,24.7,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Vittorio Parigini,27,it ITA,"FW,MF",FeralpiSalò/Calcio Lecco 1912,False,14.1,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Chiquinho,23,pt POR,"FW,MF",Stoke City/Famalicão,False,20.0,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Nicholas Bonfanti,21,it ITA,FW,Pisa/Modena,False,13.2,True,False,False,True,False,False,True,False,False,False,False,True,False,True,False
+Niall Ennis,24,eng ENG,FW,Stoke City/Blackburn,False,11.2,True,False,False,True,False,False,True,False,False,True,False,False,False,False,True
+Jason Lokilo,24,be BEL,"FW,MF",Hull City/Vizela,False,15.7,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Jeremy Sarmiento,21,ec ECU,"FW,MF",West Brom/Ipswich Town,False,15.2,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Mirko Antonucci,24,it ITA,"FW,MF",Cosenza/Spezia,False,23.2,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Ronald,22,br BRA,FW,Swansea City/Estrela,False,30.5,False,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Andreas Weimann,31,at AUT,"FW,MF",West Brom/Bristol City,False,13.7,True,False,False,False,True,False,True,False,False,False,True,False,False,True,False
+Million Manhoef,21,nl NED,FW,Stoke City/Vitesse,False,25.3,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Mats Seuntjens,31,nl NED,"FW,MF",Utrecht/RKC Waalwijk,False,19.6,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Sam Greenwood,21,eng ENG,"FW,MF",Leeds United/Middlesbrough,False,24.5,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Scott Twine,24,eng ENG,"FW,MF",Bristol City/Hull City,False,28.2,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False
+Ettore Gliozzi,27,it ITA,FW,Pisa/Modena,False,13.9,False,True,False,True,False,False,False,True,False,True,False,False,False,False,True
+Ike Ugbo,24,ca CAN,"FW,MF",Cardiff City/Sheffield Weds,False,24.8,True,False,False,False,True,False,False,True,False,False,False,True,False,True,False
+Nuno Gonçalo Moreira,24,pt POR,"FW,MF",Casa Pia/Vizela,False,22.0,False,False,True,False,False,True,False,False,True,True,False,False,True,False,False

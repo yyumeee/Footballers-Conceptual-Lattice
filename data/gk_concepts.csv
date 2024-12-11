@@ -1,0 +1,237 @@
+player,age,nationality,position,team,top5,minutes_90s,Tradizionale = Low,Tradizionale = Average,Tradizionale = High,Sweeper_Keeper = Low,Sweeper_Keeper = Average,Sweeper_Keeper = High,Miracolo = Low,Miracolo = Average,Miracolo = High,Sotto_Pressione = Low,Sotto_Pressione = Average,Sotto_Pressione = High,Lancio_del_Peso = Low,Lancio_del_Peso = Average,Lancio_del_Peso = High
+Noah Atubolu,21,de GER,GK,Freiburg,True,34.0,False,True,False,False,False,True,True,False,False,False,False,True,False,True,False
+Oliver Baumann,33,de GER,GK,Hoffenheim,True,34.0,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True
+Janis Blaswich,32,de GER,GK,RB Leipzig,True,21.0,True,False,False,False,False,True,True,False,False,False,True,False,False,True,False
+Koen Casteels,31,be BEL,GK,Wolfsburg,True,25.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Finn Dahmen,25,de GER,GK,Augsburg,True,31.0,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False
+Péter Gulácsi,33,hu HUN,GK,RB Leipzig,True,13.0,True,False,False,False,True,False,False,False,True,True,False,False,False,False,True
+Lukáš Hrádecký,33,fi FIN,GK,Leverkusen,True,33.0,True,False,False,True,False,False,False,False,True,True,False,False,False,True,False
+Gregor Kobel,25,ch SUI,GK,Dortmund,True,26.3,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Kevin Müller,32,de GER,GK,Heidenheim,True,34.0,False,False,True,False,False,True,False,True,False,False,False,True,False,True,False
+Manuel Neuer,37,de GER,GK,Bayern Munich,True,22.8,True,False,False,False,False,True,True,False,False,False,True,False,False,True,False
+Moritz Nicolas,25,de GER,GK,Gladbach,True,27.0,False,True,False,False,True,False,True,False,False,False,False,True,False,False,True
+Alexander Nübel,26,de GER,GK,Stuttgart,True,30.0,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False
+Manuel Riemann,34,de GER,GK,Bochum,True,33.0,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Frederik Rønnow,30,dk DEN,GK,Union Berlin,True,33.0,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Marcel Schuhen,30,de GER,GK,Darmstadt 98,True,31.0,False,True,False,False,False,True,True,False,False,False,False,True,False,False,True
+Marvin Schwäbe,28,de GER,GK,Köln,True,34.0,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Kevin Trapp,33,de GER,GK,Eint Frankfurt,True,32.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Sven Ulreich,34,de GER,GK,Bayern Munich,True,11.0,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Robin Zentner,28,de GER,GK,Mainz 05,True,30.0,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Michael Zetterer,28,de GER,GK,Werder Bremen,True,27.0,False,True,False,False,False,True,False,False,True,False,True,False,False,False,True
+Kepa Arrizabalaga,28,es ESP,GK,Real Madrid,True,13.3,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Augusto Batalla,27,ar ARG,GK,Granada,True,17.0,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False
+Stole Dimitrievski,29,mk MKD,GK,Rayo Vallecano,True,37.0,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Marko Dmitrović,31,rs SRB,GK,Sevilla,True,13.0,False,True,False,True,False,False,True,False,False,False,True,False,False,False,True
+André Ferreira,27,pt POR,GK,Granada,True,14.9,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Paulo Gazzaniga,31,ar ARG,GK,Girona,True,38.0,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Vicente Guaita,36,es ESP,GK,Celta Vigo,True,26.7,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True
+Sergio Herrera,30,es ESP,GK,Osasuna,True,31.9,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Filip Jørgensen,21,dk DEN,GK,Villarreal,True,36.0,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Jeremías Ledesma,30,ar ARG,GK,Cádiz,True,33.9,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Andriy Lunin,24,ua UKR,GK,Real Madrid,True,21.0,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Giorgi Mamardashvili,22,ge GEO,GK,Valencia,True,36.5,False,False,True,True,False,False,False,False,True,True,False,False,True,False,False
+Luís Maximiano,24,pt POR,GK,Almería,True,33.0,False,False,True,False,True,False,False,True,False,False,False,True,False,True,False
+Ørjan Nyland,32,no NOR,GK,Sevilla,True,24.0,False,False,True,True,False,False,False,False,True,False,True,False,False,True,False
+Jan Oblak,30,si SVN,GK,Atlético Madrid,True,38.0,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Iñaki Peña,24,es ESP,GK,Barcelona,True,10.0,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True
+Predrag Rajković,27,rs SRB,GK,Mallorca,True,36.0,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Álex Remiro,28,es ESP,GK,Real Sociedad,True,36.4,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Rui Silva,29,pt POR,GK,Betis,True,27.5,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Unai Simón,26,es ESP,GK,Athletic Club,True,35.4,False,False,True,False,True,False,False,False,True,True,False,False,True,False,False
+Antonio Sivera,26,es ESP,GK,Alavés,True,34.0,False,False,True,True,False,False,False,True,False,False,True,False,True,False,False
+David Soria,30,es ESP,GK,Getafe,True,37.9,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Marc-André ter Stegen,31,de GER,GK,Barcelona,True,28.0,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Álvaro Vallés,26,es ESP,GK,Las Palmas,True,36.3,True,False,False,False,False,True,False,False,True,True,False,False,False,False,True
+Iván Villar,26,es ESP,GK,Celta Vigo,True,11.3,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Alaa Bellaarouch,21,ma MAR,GK,Strasbourg,True,15.0,False,True,False,False,True,False,True,False,False,False,True,False,True,False,False
+Marco Bizot,32,nl NED,GK,Brest,True,32.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Marcin Bułka,23,pl POL,GK,Nice,True,34.0,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Lucas Chevalier,21,fr FRA,GK,Lille,True,33.0,False,True,False,False,True,False,False,False,True,True,False,False,True,False,False
+Arthur Desmas,29,fr FRA,GK,Le Havre,True,33.0,False,False,True,True,False,False,False,False,True,False,True,False,False,True,False
+Mory Diaw,30,sn SEN,GK,Clermont Foot,True,30.0,False,False,True,False,False,True,False,False,True,False,False,True,False,True,False
+Yehvann Diouf,23,fr FRA,GK,Reims,True,34.0,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Gianluigi Donnarumma,24,it ITA,GK,Paris S-G,True,24.1,True,False,False,False,True,False,False,False,True,True,False,False,False,False,True
+Philipp Köhn,25,ch SUI,GK,Monaco,True,22.0,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Alban Lafont,24,fr FRA,GK,Nantes,True,27.7,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Benjamin Lecomte,32,fr FRA,GK,Montpellier,True,30.0,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+Anthony Lopes,32,pt POR,GK,Lyon,True,31.0,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Pau López,28,es ESP,GK,Marseille,True,32.7,False,True,False,False,True,False,True,False,False,False,True,False,True,False,False
+Radosław Majecki,23,pl POL,GK,Monaco,True,12.0,False,True,False,True,False,False,False,False,True,True,False,False,False,False,True
+Steve Mandanda,38,fr FRA,GK,Rennes,True,34.0,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Yvon Mvogo,29,ch SUI,GK,Lorient,True,34.0,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Alexandre Oukidja,35,dz ALG,GK,Metz,True,33.2,False,False,True,True,False,False,True,False,False,False,False,True,True,False,False
+Guillaume Restes,18,fr FRA,GK,Toulouse,True,34.0,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Brice Samba,29,fr FRA,GK,Lens,True,33.0,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Alisson,30,br BRA,GK,Liverpool,True,28.0,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False
+Alphonse Areola,30,fr FRA,GK,West Ham,True,30.0,False,False,True,True,False,False,False,True,False,False,False,True,False,False,True
+Martin Dúbravka,34,sk SVK,GK,Newcastle Utd,True,22.1,True,False,False,True,False,False,False,True,False,False,True,False,False,False,True
+Ederson,29,br BRA,GK,Manchester City,True,30.9,True,False,False,False,False,True,False,True,False,True,False,False,True,False,False
+Mark Flekken,30,nl NED,GK,Brentford,True,36.5,False,False,True,False,False,True,True,False,False,False,False,True,True,False,False
+Wes Foderingham,32,eng ENG,GK,Sheffield Utd,True,29.4,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False
+Dean Henderson,26,eng ENG,GK,Crystal Palace,True,18.0,False,False,True,True,False,False,False,True,False,False,True,False,False,True,False
+Sam Johnstone,30,eng ENG,GK,Crystal Palace,True,20.0,False,False,True,True,False,False,True,False,False,False,True,False,True,False,False
+Thomas Kaminski,30,be BEL,GK,Luton Town,True,37.8,False,False,True,False,True,False,False,True,False,False,False,True,False,True,False
+Caoimhín Kelleher,24,ie IRL,GK,Liverpool,True,10.0,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Bernd Leno,31,de GER,GK,Fulham,True,38.0,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Emiliano Martínez,30,ar ARG,GK,Aston Villa,True,33.5,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False
+Arijanet Muric,24,xk KVX,GK,Burnley,True,10.0,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Neto,34,br BRA,GK,Bournemouth,True,32.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+André Onana,27,cm CMR,GK,Manchester Utd,True,38.0,False,True,False,False,False,True,False,True,False,False,False,True,True,False,False
+Đorđe Petrović,23,rs SRB,GK,Chelsea,True,22.1,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Jordan Pickford,29,eng ENG,GK,Everton,True,38.0,False,False,True,False,False,True,False,False,True,False,True,False,True,False,False
+Nick Pope,31,eng ENG,GK,Newcastle Utd,True,14.9,True,False,False,True,False,False,False,True,False,True,False,False,False,False,True
+David Raya,27,es ESP,GK,Arsenal,True,32.0,True,False,False,False,True,False,False,True,False,True,False,False,True,False,False
+José Sá,30,pt POR,GK,Wolves,True,33.7,False,True,False,False,True,False,False,False,True,False,True,False,False,False,True
+Robert Sánchez,25,es ESP,GK,Chelsea,True,15.9,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False
+Jason Steele,32,eng ENG,GK,Brighton,True,17.0,True,False,False,False,False,True,True,False,False,False,False,True,False,True,False
+James Trafford,20,eng ENG,GK,Burnley,True,28.0,False,True,False,False,False,True,True,False,False,False,False,True,False,False,True
+Matt Turner,29,us USA,GK,Nott'ham Forest,True,17.0,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Bart Verbruggen,20,nl NED,GK,Brighton,True,21.0,True,False,False,False,False,True,True,False,False,False,True,False,False,False,True
+Guglielmo Vicario,26,it ITA,GK,Tottenham,True,38.0,True,False,False,False,False,True,False,True,False,False,True,False,False,False,True
+Etrit Berisha,34,al ALB,GK,Empoli,True,14.0,False,True,False,False,True,False,True,False,False,False,False,True,False,False,True
+Elia Caprile,21,it ITA,GK,Empoli,True,23.0,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Marco Carnesecchi,23,it ITA,GK,Atalanta,True,26.9,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Andrea Consigli,36,it ITA,GK,Sassuolo,True,35.0,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Benoît Costil,36,fr FRA,GK,Salernitana,True,13.0,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False
+Michele Di Gregorio,26,it ITA,GK,Monza,True,31.9,False,True,False,False,False,True,False,False,True,True,False,False,False,False,True
+Wladimiro Falcone,28,it ITA,GK,Lecce,True,38.0,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Mike Maignan,28,fr FRA,GK,Milan,True,29.0,True,False,False,False,False,True,True,False,False,False,True,False,False,False,True
+Josep Martinez,25,es ESP,GK,Genoa,True,36.0,False,True,False,False,False,True,False,True,False,False,True,False,True,False,False
+Alex Meret,26,it ITA,GK,Napoli,True,30.8,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Vanja Milinković-Savić,26,rs SRB,GK,Torino,True,36.0,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Lorenzo Montipò,27,it ITA,GK,Hellas Verona,True,37.0,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False
+Juan Musso,29,ar ARG,GK,Atalanta,True,11.0,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True
+Guillermo Ochoa,38,mx MEX,GK,Salernitana,True,21.0,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False
+Maduka Okoye,23,ng NGA,GK,Udinese,True,21.0,False,False,True,True,False,False,False,True,False,False,True,False,True,False,False
+Rui Patrício,35,pt POR,GK,Roma,True,23.0,False,True,False,True,False,False,False,True,False,True,False,False,False,True,False
+Ivan Provedel,29,it ITA,GK,Lazio,True,30.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Simone Scuffet,27,it ITA,GK,Cagliari,True,31.0,False,False,True,True,False,False,True,False,False,False,False,True,True,False,False
+Marco Silvestri,32,it ITA,GK,Udinese,True,17.0,False,True,False,True,False,False,True,False,False,False,True,False,False,True,False
+Łukasz Skorupski,32,pl POL,GK,Bologna,True,32.0,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Yann Sommer,34,ch SUI,GK,Inter,True,34.0,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Mile Svilar,23,rs SRB,GK,Roma,True,15.0,True,False,False,False,False,True,False,False,True,False,True,False,False,True,False
+Wojciech Szczęsny,33,pl POL,GK,Juventus,True,35.0,False,True,False,True,False,False,False,True,False,True,False,False,False,True,False
+Pietro Terracciano,33,it ITA,GK,Fiorentina,True,33.0,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Stefano Turati,21,it ITA,GK,Frosinone,True,30.5,True,False,False,False,True,False,True,False,False,False,False,True,False,True,False
+Matz Sels,31,be BEL,GK,Strasbourg/Nott'ham Forest,True,35.0,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Arnaud Bodart,25,be BEL,GK,Standard Liège,False,29.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Sinan Bolat,34,tr TUR,GK,Westerlo,False,26.0,False,True,False,False,True,False,False,True,False,False,False,True,False,True,False
+Jean Butez,28,fr FRA,GK,Antwerp,False,30.0,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Gaëtan Coucke,24,be BEL,GK,Mechelen,False,30.0,False,True,False,False,True,False,False,False,True,True,False,False,True,False,False
+Théo Defourny,31,be BEL,GK,RWD Molenbeek,False,29.8,False,False,True,True,False,False,False,True,False,False,False,True,False,True,False
+Hervé Koffi,26,bf BFA,GK,Charleroi,False,26.0,False,True,False,False,True,False,False,False,True,False,True,False,True,False,False
+Tobe Leysen,21,be BEL,GK,OH Leuven,False,16.0,False,True,False,False,True,False,False,False,True,False,True,False,False,False,True
+Simon Mignolet,35,be BEL,GK,Club Brugge,False,27.1,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Anthony Moris,33,lu LUX,GK,Union SG,False,28.8,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Paul Nardi,29,fr FRA,GK,Gent,False,10.0,False,False,True,True,False,False,False,True,False,False,True,False,True,False,False
+Maxence Prevot,26,fr FRA,GK,OH Leuven,False,11.0,False,True,False,False,True,False,True,False,False,False,False,True,False,False,True
+Davy Roef,29,be BEL,GK,Gent,False,12.0,True,False,False,True,False,False,False,False,True,True,False,False,False,False,True
+Kasper Schmeichel,36,dk DEN,GK,Anderlecht,False,23.0,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Gaga Slonina,19,us USA,GK,Eupen,False,28.0,False,True,False,False,True,False,False,True,False,False,False,True,False,False,True
+Zion Suzuki,20,jp JPN,GK,Sint-Truiden,False,22.0,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False
+Tom Vandenberghe,30,be BEL,GK,Kortrijk,False,21.0,False,False,True,False,True,False,False,True,False,False,False,True,False,True,False
+Maarten Vandevoordt,21,be BEL,GK,Genk,False,30.0,False,True,False,False,True,False,False,False,True,True,False,False,True,False,False
+Warleson,26,br BRA,GK,Cercle Brugge,False,30.0,False,False,True,True,False,False,False,False,True,True,False,False,True,False,False
+Ryan Allsop,31,eng ENG,GK,Hull City,False,36.9,True,False,False,False,False,True,True,False,False,False,False,True,True,False,False
+Jak Alnwick,30,eng ENG,GK,Cardiff City,False,24.0,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Daniel Bachmann,29,at AUT,GK,Watford,False,27.0,True,False,False,False,False,True,False,False,True,True,False,False,False,False,True
+Gavin Bazunu,21,ie IRL,GK,Southampton,False,41.0,True,False,False,False,False,True,True,False,False,False,True,False,False,False,True
+James Beadle,19,eng ENG,GK,Sheffield Weds,False,19.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Asmir Begović,36,ba BIH,GK,QPR,False,45.0,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Bartosz Białkowski,36,pl POL,GK,Millwall,False,14.0,False,False,True,True,False,False,False,True,False,False,True,False,False,True,False
+Jack Bonham,29,ie IRL,GK,Stoke City,False,14.0,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True
+Bradley Collins,26,eng ENG,GK,Coventry City,False,28.0,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Michael Cooper,23,eng ENG,GK,Plymouth Argyle,False,19.0,False,True,False,False,False,True,False,False,True,False,True,False,False,False,True
+Cameron Dawson,28,eng ENG,GK,Sheffield Weds,False,18.0,False,True,False,False,False,True,True,False,False,False,True,False,False,True,False
+Seny Dieng,28,sn SEN,GK,Middlesbrough,False,35.0,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False
+Tom Glover,25,au AUS,GK,Middlesbrough,False,11.0,True,False,False,False,False,True,True,False,False,False,True,False,False,False,True
+Angus Gunn,27,sct SCO,GK,Norwich City,False,39.3,True,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Ben Hamer,35,eng ENG,GK,Watford,False,19.0,True,False,False,False,False,True,False,False,True,False,True,False,False,True,False
+Conor Hazard,25,nir NIR,GK,Plymouth Argyle,False,27.0,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Mads Hermansen,23,dk DEN,GK,Leicester City,False,44.0,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Václav Hladký,32,cz CZE,GK,Ipswich Town,False,46.0,True,False,False,False,False,True,False,True,False,False,True,False,False,True,False
+Ethan Horvath,28,us USA,GK,Cardiff City,False,16.0,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Daniel Iversen,26,dk DEN,GK,Stoke City,False,18.0,False,True,False,False,True,False,True,False,False,True,False,False,True,False,False
+Viktor Johansson,24,se SWE,GK,Rotherham Utd,False,44.0,False,False,True,False,True,False,False,True,False,False,False,True,True,False,False
+Illan Meslier,23,fr FRA,GK,Leeds United,False,43.6,True,False,False,False,False,True,False,True,False,True,False,False,False,True,False
+Lee Nicholls,30,eng ENG,GK,Huddersfield,False,36.7,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Max O'Leary,26,ie IRL,GK,Bristol City,False,46.0,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Alex Palmer,26,eng ENG,GK,West Brom,False,46.0,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Anthony Patterson,23,eng ENG,GK,Sunderland,False,45.0,True,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+Aynsley Pears,25,eng ENG,GK,Blackburn,False,25.7,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+John Ruddy,36,eng ENG,GK,Birmingham City,False,44.0,False,False,True,False,True,False,False,True,False,False,False,True,False,True,False
+Carl Rushworth,22,eng ENG,GK,Swansea City,False,46.0,False,True,False,False,False,True,False,False,True,False,True,False,False,False,True
+Matija Šarkić,26,me MNE,GK,Millwall,False,32.0,False,False,True,True,False,False,False,True,False,True,False,False,True,False,False
+Mark Travers,24,ie IRL,GK,Stoke City,False,13.0,False,False,True,False,True,False,False,True,False,False,False,True,False,True,False
+Leopold Wahlstedt,24,se SWE,GK,Blackburn,False,20.3,True,False,False,False,True,False,True,False,False,False,False,True,False,False,True
+Ben Wilson,30,eng ENG,GK,Coventry City,False,18.0,True,False,False,False,True,False,True,False,False,False,True,False,False,False,True
+Freddie Woodman,26,eng ENG,GK,Preston,False,44.0,False,False,True,True,False,False,False,True,False,False,True,False,False,True,False
+Mio Backhaus,19,de GER,GK,Volendam,False,32.0,False,False,True,False,False,True,False,True,False,False,False,True,False,True,False
+Nordin Bakker,25,nl NED,GK,Almere City,False,28.8,False,False,True,False,True,False,False,False,True,False,False,True,True,False,False
+Vasilios Barkas,29,gr GRE,GK,Utrecht,False,29.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Walter Benítez,30,ar ARG,GK,PSV Eindhoven,False,32.9,True,False,False,False,True,False,False,False,True,True,False,False,True,False,False
+Justin Bijlow,25,nl NED,GK,Feyenoord,False,16.2,True,False,False,False,False,True,False,True,False,True,False,False,True,False,False
+Michael Brouwer,30,nl NED,GK,Heracles Almelo,False,34.0,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False
+Jasper Cillessen,34,nl NED,GK,NEC Nijmegen,False,29.3,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Jeffrey De Lange,25,nl NED,GK,Go Ahead Eag,False,34.0,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Mickey van der Hart,29,nl NED,GK,Heerenveen,False,12.0,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Stijn van Gassel,26,nl NED,GK,Excelsior,False,34.0,False,False,True,False,False,True,True,False,False,False,False,True,False,True,False
+Andries Noppert,29,nl NED,GK,Heerenveen,False,22.0,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Nick Olij,27,nl NED,GK,Sparta R'dam,False,34.0,False,False,True,False,False,True,False,True,False,False,True,False,True,False,False
+Ivor Pandur,23,hr CRO,GK,Fortuna Sittard,False,16.0,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+Diant Ramaj,21,de GER,GK,Ajax,False,20.3,False,True,False,False,False,True,False,True,False,False,True,False,False,True,False
+Eloy Room,34,cw CUW,GK,Vitesse,False,34.0,False,False,True,False,False,True,False,True,False,False,False,True,False,True,False
+Mathew Ryan,31,au AUS,GK,AZ Alkmaar,False,29.0,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False
+Jasper Schendelaar,22,nl NED,GK,Zwolle,False,32.0,False,True,False,False,False,True,False,True,False,False,False,True,False,False,True
+Lars Unnerstall,33,de GER,GK,Twente,False,32.0,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+Etienne Vaessen,28,sr SUR,GK,RKC Waalwijk,False,29.4,False,False,True,False,False,True,False,False,True,False,False,True,False,True,False
+Michael Verrips,26,nl NED,GK,Fortuna Sittard,False,12.0,False,False,True,True,False,False,True,False,False,False,False,True,True,False,False
+Timon Wellenreuther,27,de GER,GK,Feyenoord,False,17.8,True,False,False,False,False,True,False,True,False,True,False,False,True,False,False
+Antonio Adán,36,es ESP,GK,Sporting CP,False,22.0,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Andrew,22,br BRA,GK,Gil Vicente FC,False,32.0,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+Ricardo Batista,36,pt POR,GK,Casa Pia,False,30.9,False,False,True,False,True,False,False,True,False,False,True,False,False,True,False
+Bruno Brigido,32,br BRA,GK,Estrela,False,26.0,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Fabijan Buntić,26,hr CRO,GK,Vizela,False,27.7,False,True,False,True,False,False,True,False,False,False,False,True,False,True,False
+Marcelo Carné,33,br BRA,GK,Estoril,False,22.0,False,True,False,True,False,False,False,False,True,True,False,False,False,False,True
+Diogo Costa,23,pt POR,GK,Porto,False,32.7,True,False,False,False,True,False,False,True,False,True,False,False,True,False,False
+Ignacio De Arruabarrena,26,uy URU,GK,Arouca,False,31.0,False,True,False,False,True,False,False,True,False,False,True,False,False,False,True
+João Gonçalves,22,pt POR,GK,Boavista,False,34.0,False,True,False,True,False,False,False,True,False,False,False,True,False,False,True
+Franco Israel,23,uy URU,GK,Sporting CP,False,10.0,True,False,False,True,False,False,True,False,False,True,False,False,False,True,False
+Jhonatan,32,br BRA,GK,Rio Ave,False,26.0,False,True,False,False,True,False,False,False,True,False,True,False,False,False,True
+Luiz Lúcio Reis Júnior,22,br BRA,GK,Famalicão,False,33.0,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True
+Kewin,27,br BRA,GK,Moreirense,False,29.8,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Daniel Leite,25,pt POR,GK,Estoril,False,12.0,True,False,False,True,False,False,True,False,False,False,False,True,False,False,True
+Matheus,31,br BRA,GK,Braga,False,34.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Kosuke Nakamura,28,jp JPN,GK,Portimonense,False,20.0,False,False,True,True,False,False,False,False,True,False,True,False,False,True,False
+Vinicius Silvestre,29,br BRA,GK,Portimonense,False,14.0,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False
+Hugo Souza,24,br BRA,GK,Chaves,False,26.0,False,False,True,True,False,False,True,False,False,False,False,True,False,False,True
+Anatolii Trubin,21,ua UKR,GK,Benfica,False,28.0,True,False,False,True,False,False,False,False,True,True,False,False,False,True,False
+Bruno Varela,28,cv CPV,GK,Vitória,False,26.5,False,True,False,True,False,False,False,False,True,True,False,False,False,True,False
+Ricardo Velho,24,pt POR,GK,Farense,False,32.0,False,False,True,True,False,False,False,False,True,False,True,False,False,True,False
+Nícolas Andrade,35,br BRA,GK,Pisa,False,31.0,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+Francesco Bardi,31,it ITA,GK,Reggiana,False,29.2,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True
+Brenno,24,br BRA,GK,Bari,False,32.7,False,True,False,True,False,False,True,False,False,False,True,False,False,True,False
+Leandro Chichizola,33,ar ARG,GK,Parma,False,36.1,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False
+Bartłomiej Drągowski,25,pl POL,GK,Spezia,False,13.0,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Andrea Fulignati,28,it ITA,GK,Catanzaro,False,37.0,True,False,False,False,False,True,False,False,True,False,True,False,False,True,False
+Riccardo Gagno,26,it ITA,GK,Modena,False,21.4,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False
+Antony Iannarilli,32,it ITA,GK,Ternana,False,32.0,False,False,True,True,False,False,False,False,True,False,True,False,False,True,False
+Jesse Joronen,30,fi FIN,GK,Venezia,False,29.0,True,False,False,False,True,False,False,True,False,False,True,False,False,False,True
+Andreas Jungdal,21,dk DEN,GK,Cremonese,False,18.0,True,False,False,False,True,False,False,False,True,True,False,False,False,False,True
+Elhan Kastrati,26,al ALB,GK,Cittadella,False,35.0,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Luca Lezzerini,28,it ITA,GK,Brescia,False,25.0,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False
+Riccardo Melgrati,29,it ITA,GK,Calcio Lecco 1912,False,22.5,False,True,False,False,True,False,True,False,False,False,False,True,False,True,False
+Alessandro Micai,30,it ITA,GK,Cosenza,False,36.6,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Mirko Pigliacelli,30,it ITA,GK,Palermo,False,36.0,False,True,False,False,True,False,True,False,False,False,True,False,False,True,False
+Semuel Pizzignacco,21,it ITA,GK,FeralpiSalò,False,38.0,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False
+Giacomo Poluzzi,35,it ITA,GK,Südtirol,False,37.0,False,False,True,False,True,False,False,True,False,False,True,False,True,False,False
+Umberto Saracco,29,it ITA,GK,Calcio Lecco 1912,False,12.5,False,True,False,False,True,False,True,False,False,False,False,True,False,False,True
+Mouhamadou Sarr,26,sn SEN,GK,Cremonese,False,12.0,False,True,False,False,True,False,False,True,False,True,False,False,False,True,False
+Andrea Seculin,33,it ITA,GK,Modena,False,16.5,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+Adrian Šemper,25,hr CRO,GK,Como,False,37.8,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+Filip Stankovic,21,rs SRB,GK,Sampdoria,False,37.0,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False
+Emiliano Viviano,37,it ITA,GK,Ascoli,False,26.5,False,False,True,True,False,False,False,True,False,False,True,False,True,False,False
+Jeroen Zoet,32,nl NED,GK,Spezia,False,25.0,False,False,True,True,False,False,False,True,False,False,True,False,False,True,False
+Devis Vásquez,25,co COL,GK,Sheffield Weds/Ascoli,False,18.2,False,True,False,False,True,False,False,True,False,False,True,False,True,False,False
+Daniel Schmidt,31,jp JPN,GK,Sint-Truiden/Gent,False,12.0,True,False,False,False,True,False,True,False,False,False,True,False,False,True,False
